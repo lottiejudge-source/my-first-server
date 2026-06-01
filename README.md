@@ -10,3 +10,7 @@ Commands used:
  1028  source /Users/lottie.judge/projects/my-first-server/venv/bin/activate
  1029  pip install flask 
  1031  pip freeze > requirements.txt
+ 1044  mkdir templates (move index to template)
+ 1045  flask run 
+
+ You have a server ! 
