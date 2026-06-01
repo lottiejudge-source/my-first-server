@@ -14,3 +14,5 @@ Commands used:
  1045  flask run 
 
  You have a server ! 
+
+ flask run --debug - auto updates as you make changes 
